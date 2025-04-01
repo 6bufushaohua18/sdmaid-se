@@ -1,29 +1,29 @@
-<img src="https://github.com/d4rken-org/sdmaid-se/raw/main/.assets/banner.png" width="400">
+<百万毫克学生代表会="https://github.com/d4rken-org/sdmaid-se/raw/main/.assets/banner.png" 宽度="400">
 
-# SD Maid 2/SE
+#SD女佣2/SE
 
-[![API](https://img.shields.io/badge/API-26%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=26)
+[![应用编程接口](https://img.shields.io/badge/API-26%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=26)
 [![Crowdin](https://badges.crowdin.net/sdmaid-se/localized.svg)](https://crowdin.com/project/sdmaid-se)
-[![Code tests & eval](https://img.shields.io/github/actions/workflow/status/d4rken-org/sdmaid-se/code-checks.yml?logo=githubactions&label=Code%20tests
+[![代码测试和eval](https://img.shields.io/github/actions/workflow/status/d4rken-org/sdmaid-se/code-checks.yml?logo=githubactions&label=Code%20tests
 )](https://github.com/d4rken-org/sdmaid-se/actions)
-[![Github Downloads](https://img.shields.io/github/downloads/d4rken-org/sdmaid-se/total.svg?label=GitHub%20Downloads&logo=github)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
-[![Google Play Downloads](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26l%3DGoogle%2520Play%26m%3D%24totalinstalls)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
+[![Github下载](https://img.shields.io/github/downloads/d4rken-org/sdmaid-se/total.svg?label=GitHub%20Downloads&logo=github)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
+[![Google Play下载](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26l%3DGoogle%2520Play%26m%3D%24totalinstalls)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
 [![⭐](https://img.shields.io/endpoint?url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26gl%3DUS%26hl%3Den%26l%3D%25E2%25AD%2590%26m%3D%24rating)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
 
-> _**SD Maid 2/SE is actively being worked on and not feature complete. Feature requests are welcome!**_
+> _**SD Maid 2/SE正在积极工作，功能尚未完成。欢迎功能要求！**_
 
-[SD Maid SE](https://github.com/d4rken-org/sdmaid-se) (AKA SD Maid 2) is a file management tool for Android that
-specialises in maintenance. Its core purpose is freeing up space and removing unwanted data.
+[SD女佣SE](https://github.com/d4rken-org/sdmaid-se)（又名SD Maid 2）是Android的文件管理工具
+专门从事维修。它的核心目的是释放空间和删除不需要的数据。
 
-Features include:
+特点包括：
 
-* Removing data that belongs to apps that are no longer installed (CorpseFinder)
-* Deleting expendable files, e.g. caches (AppCleaner)
-* User configurable filters for random files (SystemCleaner)
-* Scheduling actions (Scheduler)
-* Controlling/disabling apps (AppControl)
-* Storage overview (StorageAnalyzer)
-* Find duplicate data (Deduplicator)
+*删除属于不再安装的应用程序的数据（CorpseFinder）
+*删除消耗性文件，例如缓存（AppClean）
+*随机文件的用户可配置过滤器（SystemClean）
+*调度操作（调度器）
+*控制/禁用应用程序（AppControl）
+*存储概述（StorageAnalyzer）
+*查找重复数据（去复制器）
 * Root and Shizuku support
 
 [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) is the successor
